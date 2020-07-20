@@ -1,0 +1,8 @@
+title: Mytube
+description: a react project searching and watching video with youtube api
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
